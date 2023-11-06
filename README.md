@@ -8,4 +8,4 @@ A coleta de dados foi realizada no Kaggle, link: "https://www.kaggle.com/dataset
 Utilizamos na análise o teste de regressão linear, no qual consideramos o valor total sendo variável dependente e o valor unitário valor independente. 
 Assim o total vendido dependerá dos valores unitários de cada produto.
 
-Link da análise: "https://colab.research.google.com/drive/157t_3rDb5OAahpvzIfCEASpRRnKyTStU#scrollTo=1Me-RIU7vqoO"
+Link da análise: "https://colab.research.google.com/drive/157t_3rDb5OAahpvzIfCEASpRRnKyTStU?usp=sharing"
